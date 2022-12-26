@@ -27,12 +27,11 @@ La traduzione segue delle regole specifiche:
 -Una volta ottenuta la sequenza amminoacidica si puo effettuare il cosi detto processo di balsting in modo da risalire alla proteina corrispondente e quindi alla sua funzione specifica all'interno dell'organismo
 
 
-
-##Funzionamento del programma
+<h2>Funzionamento del programma<h2>
 
 Per effettuare lo studio della sequenza genica presa in esame è necessario caricare la stessa in un file .txt nella stessa cartella del file sorgente in modo da poterla caricare e sottoporre all'algoritmo
 
-Una volta caricato il file l'algoritmo appena eseguito stamperà la sequenza genica di input eseguirà la traduzione e verrà stampata a video
+Una volta caricato il file l'algoritmo appena eseguito stamperà la sequenza genica di input, eseguirà la traduzione stampandola a video
 
 
 
