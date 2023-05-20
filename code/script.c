@@ -28,7 +28,7 @@ int main ()
    
     char gene[MAX];
     FILE *fptr;
-    if ((fptr = fopen("prova.txt", "r")) == NULL) {
+    if ((fptr = fopen("test.txt", "r")) == NULL) {
         printf("Error! File cannot be opened.");
         // Program exits if the file pointer returns NULL.
         exit(1);
