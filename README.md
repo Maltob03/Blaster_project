@@ -87,3 +87,4 @@ daltob@Mac-mini-di-Domenico code % ./a.out
 After this the script will be executed, of course you need a gcc compiler installed on your pc
 
 
+**You can modify the input sequence in the test.txt file**
