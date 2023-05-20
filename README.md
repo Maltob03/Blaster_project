@@ -33,7 +33,7 @@
 </p>
 -->
 
-![Image](https://res.cloudinary.com/maltob03/image/upload/v1684603570/Screenshot_2023-05-20_alle_19.25.43_vhicbg.png)
+![Image](https://res.cloudinary.com/maltob03/image/upload/v1684604516/Screenshot_2023-05-20_alle_19.41.29_pwbedr.png)
 ## How it works
 
 This C script allows obtaining a sequence of amino acids from a specific gene sequence.
