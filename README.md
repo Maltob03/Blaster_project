@@ -34,7 +34,7 @@
 -->
 
 ![Image](https://res.cloudinary.com/maltob03/image/upload/v1684603570/Screenshot_2023-05-20_alle_19.25.43_vhicbg.png)
-##How it works
+## How it works
 
 This C script allows obtaining a sequence of amino acids from a specific gene sequence.
 
